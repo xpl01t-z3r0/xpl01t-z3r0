@@ -89,10 +89,18 @@ My objective is to discover security weaknesses, simulate realistic attack scena
 
 ## 📜 Certifications & Training
 
+- **Arena Web Certified Professional (AWCP)**
+  - Cyber Security & Ethical Hacking
+  - Issued by Arena Web Security
+  - Issued: 2 October 2026
+  - Verification No: `A61W0724S018`
+
 - **Wiz Bug Bounty Masterclass**
   - Advanced vulnerability hunting and bug bounty methodology
+
 - **BCI Cyber Security Boot Camp**
   - Ethical hacking and penetration testing fundamentals
+
 - **TryHackMe Hacker Holidays**
   - Byte Lotus Summer Breach Engagement
 
@@ -117,11 +125,11 @@ My objective is to discover security weaknesses, simulate realistic attack scena
 ## ☠️ Vulnerability Matrix
 
 ```text
- SQL Injection                  Authentication Bypass[3][4]
- Cross-Site Scripting           Information Disclosure[5][6]
- Path Traversal / LFI           Business Logic Flaws[7][8]
- OS Command Injection           Unsafe File Uploads[1][2]
- Access Control Vulnerabilities[9]
+ SQL Injection                  Authentication Bypass
+ Cross-Site Scripting           Information Disclosure
+ Path Traversal / LFI           Business Logic Flaws
+ OS Command Injection           Unsafe File Uploads[1]
+ Access Control Vulnerabilities
 ```
 
 ---
