@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=150&section=header&text=xpl01t_z3r0&fontSize=52&fontColor=C0C0C0&fontAlignY=38&desc=Red%20Team%20%7C%20Bug%20Bounty%20%7C%20Penetration%20Testing%20%7C%20OSINT&descAlignY=60&descSize=16&descColor=E8E8E8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a0000&height=110&section=header" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=5000&color=FF0000&center=true&vCenter=true&width=700&height=85&lines=xpl01t_z3r0" alt="Handle" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=900&color=FF0000&center=true&vCenter=true&width=750&height=38&lines=%5B*%5D+Initializing+red_team_protocol...;%5B%2B%5D+35th+Global+%E2%80%94+HTB+Cyber+Apocalypse+%2726;%5B%2B%5D+148th+Global+%E2%80%94+HTB+Benchmark+%2726;%5B%2B%5D+Top+3%25+TryHackMe+%7C+Level+10+WIZARD;%5B%2B%5D+AWCP+%7C+C3SA+%7C+CWL+AI+Security;%5B!%5D+Authorized+testing+only." alt="Terminal Typing" />
 
