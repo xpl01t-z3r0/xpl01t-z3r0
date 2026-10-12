@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a0000&height=110&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6600,C0C0C0&height=130&section=header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=5000&color=FF0000&center=true&vCenter=true&width=700&height=85&lines=xpl01t_z3r0" alt="Handle" />
 
