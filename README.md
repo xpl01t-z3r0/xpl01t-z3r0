@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a0000&height=110&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6600,100:FF0000&height=110&section=header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=5000&color=FF0000&center=true&vCenter=true&width=700&height=85&lines=xpl01t_z3r0" alt="Handle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=5000&color=00FF00&center=true&vCenter=true&width=700&height=85&lines=xpl01t_z3r0" alt="Handle" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=900&color=FF0000&center=true&vCenter=true&width=750&height=38&lines=%5B*%5D+Initializing+red_team_protocol...;%5B%2B%5D+35th+Global+%E2%80%94+HTB+Cyber+Apocalypse+%2726;%5B%2B%5D+148th+Global+%E2%80%94+HTB+Benchmark+%2726;%5B%2B%5D+Top+3%25+TryHackMe+%7C+Level+10+WIZARD;%5B%2B%5D+AWCP+%7C+C3SA+%7C+CWL+AI+Security;%5B!%5D+Authorized+testing+only." alt="Terminal Typing" />
-
 <br/><br/>
 
 <p>
@@ -196,15 +195,27 @@ echo "[+] Assessment completed responsibly."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xpl01t-z3r0&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xpl01t-z3r0&show_icons=true&theme=dark&hide_border=true&title_color=FF6600&icon_color=00FF41&text_color=C0C0C0&bg_color=0d1117" alt="GitHub Stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl01t-z3r0&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d1117" alt="Top Languages">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpl01t-z3r0&layout=compact&theme=dark&hide_border=true&title_color=FF6600&text_color=C0C0C0&bg_color=0d1117" alt="Top Languages">
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=xpl01t-z3r0&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=xpl01t-z3r0&theme=dark&hide_border=true&ring=FF6600&fire=00FF41&currStreakLabel=FF6600&sideLabels=C0C0C0&dates=C0C0C0" alt="GitHub Streak">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=xpl01t-z3r0&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies">
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xpl01t-z3r0&bg_color=0d1117&color=FF6600&line=00FF41&point=FF6600&area=true&hide_border=true" alt="Activity Graph">
 
 </div>
 
