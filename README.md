@@ -81,7 +81,7 @@
 | **HTB Global Benchmark '26** | 148th Global Rank |
 | **HTB Global Benchmark '26** | 52,325 points — 95/126 challenges solved |
 | **Hack The Box** | Skilled — Level 36 |
-| **TryHackMe** | Top 2% — Level 10 WIZARD |
+| **TryHackMe** | Top 2% — Level 11 MASTER |
 | **TryHackMe** | 132 rooms completed — 13 badges |
 | **HTB Activity** | 11-week active streak |
 
