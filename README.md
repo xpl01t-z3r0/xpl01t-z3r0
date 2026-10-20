@@ -49,7 +49,7 @@
 [+] Location  : Bangladesh 🇧🇩
 [+] Focus     : Red Team | Bug Bounty | Web Security | OSINT
 [+] Rank      : 35th Global — HTB Cyber Apocalypse '26
-[+] Platform  : Top 3% TryHackMe | HTB Skilled Lv.36
+[+] Platform  : Top 2% TryHackMe | HTB Skilled Lv.36
 [+] Certs     : AWCP | C3SA | CWL AI Security
 [+] Objective : Discover weaknesses. Simulate attacks. Build resilience.
 [!] Notice    : All testing performed with explicit authorization only.
@@ -81,7 +81,7 @@
 | **HTB Global Benchmark '26** | 148th Global Rank |
 | **HTB Global Benchmark '26** | 52,325 points — 95/126 challenges solved |
 | **Hack The Box** | Skilled — Level 36 |
-| **TryHackMe** | Top 3% — Level 10 WIZARD |
+| **TryHackMe** | Top 2% — Level 10 WIZARD |
 | **TryHackMe** | 132 rooms completed — 13 badges |
 | **HTB Activity** | 11-week active streak |
 
