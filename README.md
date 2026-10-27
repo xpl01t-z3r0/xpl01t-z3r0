@@ -91,6 +91,8 @@
 
 | Certification / Program | Issuer | Date |
 | :--- | :--- | :--- |
+| **Advance Python with Django** · Verification: `A11P1026S032` | Arena Web Security | 27 Oct 2026 |
+| **Cisco Networking Academy: Ethical Hacker** · Cert ID: `51974c70-2adf-4f17-a16e-99dbc1414170` | Cisco Networking Academy | 16 Oct 2026 |
 | **Arena Web Certified Professional (AWCP)** — Cyber Security & Ethical Hacking · Verification: `A61W0724S018` | Arena Web Security | 2 Oct 2026 |
 | **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 |
 | **CWL Certified AI Security Fundamentals** · Verification: `b4d694da-31b7-42cc-b9f7-bcba30819fa3` | CyberWarfare Labs | 12 Oct 2026 |
