@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=5000&color=00FF00&center=true&vCenter=true&width=700&height=85&lines=xpl01t_z3r0" alt="Handle" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=900&color=FF0000&center=true&vCenter=true&width=750&height=38&lines=%5B*%5D+Initializing+red_team_protocol...;%5B%2B%5D+35th+Global+%E2%80%94+HTB+Cyber+Apocalypse+%2726;%5B%2B%5D+148th+Global+%E2%80%94+HTB+Benchmark+%2726;%5B%2B%5D+Top+2%25+TryHackMe+%7C+Level+11+MASTER;%5B%2B%5D+AWCP+%7C+C3SA+%7C+CWL+AI+Security;%5B!%5D+Authorized+testing+only." alt="Terminal Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=900&color=FF0000&center=true&vCenter=true&width=750&height=38&lines=%5B*%5D+Initializing+red_team_protocol...;%5B%2B%5D+35th+Global+%E2%80%94+HTB+Cyber+Apocalypse+%2726;%5B%2B%5D+148th+Global+%E2%80%94+HTB+Benchmark+%2726;%5B%2B%5D+7th+%E2%80%94+SecFest+CTF+%2726+%7C+Team+SceCrown;%5B%2B%5D+Top+2%25+TryHackMe+%7C+Level+12+GURU;%5B%2B%5D+AWCP+%7C+C3SA+%7C+CWL+AI+Security;%5B!%5D+Authorized+testing+only." alt="Terminal Typing" />
 <br/><br/>
 
 <p>
@@ -49,6 +49,7 @@
 [+] Location  : Bangladesh 🇧🇩
 [+] Focus     : Red Team | Bug Bounty | Web Security | OSINT
 [+] Rank      : 35th Global — HTB Cyber Apocalypse '26
+[+] CTF       : 7th — SecFest CTF '26 | 546th — Cold Room CTF '26
 [+] Platform  : Top 2% TryHackMe | HTB Skilled Lv.47
 [+] Certs     : AWCP | C3SA | CWL AI Security
 [+] Objective : Discover weaknesses. Simulate attacks. Build resilience.
@@ -76,6 +77,10 @@
 
 | Platform / Event | Achievement |
 | :--- | :--- |
+| **SecFest'26 Capture the Flag (HTB)** | 7th Team Rank — Team SceCrown |
+| **SecFest'26 Capture the Flag (HTB)** | 16,900 points — 26/26 challenges solved |
+| **HTB Operation Cymbal Cold Room CTF '26** | 546th Team Rank — Team SceCrown |
+| **HTB Operation Cymbal Cold Room CTF '26** | 2,075 points — 18/18 challenges solved |
 | **HTB Cyber Apocalypse CTF '26** | 35th Global Rank — Team Mutex19 |
 | **HTB Cyber Apocalypse CTF '26** | 69,425 points — 136/136 challenges solved |
 | **HTB Global Benchmark '26** | 148th Global Rank |
@@ -91,7 +96,11 @@
 
 | Certification / Program | Issuer | Date |
 | :--- | :--- | :--- |
+| **Operation Cymbal Cold Room 2026 CTF** — Certified CTF Player | Hack The Box | 29 Oct – 1 Nov 2026 |
+| **TryHackMe Downtime** — Certificate of Participation (alert triage, threat hunting, forensics & incident response) · Verification: `THM-SUYEK3ZRQW` | TryHackMe | 30 Oct 2026 |
+| **SecFest'26 Capture the Flag** — Certified CTF Player | Hack The Box | 28–30 Oct 2026 |
 | **Advance Python with Django** · Verification: `A11P1026S032` | Arena Web Security | 27 Oct 2026 |
+| **TryHackMe Advent of Cyber 2022** · Verification: `THM-WB5HJEAZRK` | TryHackMe | 17 Oct 2026 |
 | **Cisco Networking Academy: Ethical Hacker** · Cert ID: `51974c70-2adf-4f17-a16e-99dbc1414170` | Cisco Networking Academy | 16 Oct 2026 |
 | **Arena Web Certified Professional (AWCP)** — Cyber Security & Ethical Hacking · Verification: `A61W0724S018` | Arena Web Security | 2 Oct 2026 |
 | **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 |
