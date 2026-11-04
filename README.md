@@ -94,25 +94,25 @@
 
 ## 📜 Certifications & Training
 
-| Certification / Program | Issuer | Date |
-| :--- | :--- | :--- |
-| **Operation Cymbal Cold Room 2026 CTF** — Certified CTF Player | Hack The Box | 29 Oct – 1 Nov 2026 |
-| **TryHackMe Downtime** — Certificate of Participation (alert triage, threat hunting, forensics & incident response) · Verification: `THM-SUYEK3ZRQW` | TryHackMe | 30 Oct 2026 |
-| **SecFest'26 Capture the Flag** — Certified CTF Player | Hack The Box | 28–30 Oct 2026 |
-| **Advance Python with Django** · Verification: `A11P1026S032` | Arena Web Security | 27 Oct 2026 |
-| **TryHackMe Advent of Cyber 2022** · Verification: `THM-WB5HJEAZRK` | TryHackMe | 17 Oct 2026 |
-| **Cisco Networking Academy: Ethical Hacker** · Cert ID: `51974c70-2adf-4f17-a16e-99dbc1414170` | Cisco Networking Academy | 16 Oct 2026 |
-| **Arena Web Certified Professional (AWCP)** — Cyber Security & Ethical Hacking · Verification: `A61W0724S018` | Arena Web Security | 2 Oct 2026 |
-| **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 |
-| **CWL Certified AI Security Fundamentals** · Verification: `b4d694da-31b7-42cc-b9f7-bcba30819fa3` | CyberWarfare Labs | 12 Oct 2026 |
-| **Certified Cyber Security Analyst (C3SA)** · Verification: `C3SA-6acbc7c3a8a9c04f32d53c8a` | CyberWarfare Labs | 11 Oct 2026 |
-| **Basics of Python** · Verification: `ID 8006-2433-8215` | UniAthena × Cambridge International Qualifications (UK) | 3 Oct 2026 |
-| **Hacker Holidays: Byte Lotus Summer Breach Engagement** · Verification: `THM-B51BSVDMMC` | TryHackMe | 11 Aug 2026 |
-| **Cyber Apocalypse CTF 2026: The Salt Crown** — Certified CTF Player | Hack The Box | 24–29 Jul 2026 |
-| **Global Cyber Skills Benchmark 2026: Project Nightfall** — Certified CTF Player | Hack The Box | 15–20 May 2026 |
-| **Wiz Bug Bounty Masterclass** — Advanced vulnerability hunting & bug bounty methodology | Wiz | 13 Feb 2026 *(valid until 13 Feb 2028)* |
-| **Cyber Security & Ethical Hacking Boot Camp** (15-day program) · Verification: `CN: BCI-CSBC-150` | Bangladesh Cyber Institute (BCI) | 2026 |
-| **Webinar on CEH** — Certified Ethical Hacker | Cyberlog Limited | — |
+| Certification / Program | Issuer | Date | Certificate |
+| :--- | :--- | :--- | :---: |
+| **Operation Cymbal Cold Room 2026 CTF** — Certified CTF Player | Hack The Box | 29 Oct – 1 Nov 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/cold-room-ctf-2026.jpg) |
+| **TryHackMe Downtime** — Certificate of Participation | TryHackMe | 30 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/thm-downtime.jpg) |
+| **SecFest'26 Capture the Flag** — Certified CTF Player | Hack The Box | 28–30 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/secfest-ctf-2026.jpg) |
+| **Advance Python with Django** | Arena Web Security | 27 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/advance-python-django.jpg) |
+| **TryHackMe Advent of Cyber 2022** | TryHackMe | 17 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/thm-advent-of-cyber-2022.jpg) |
+| **Cisco Networking Academy: Ethical Hacker** | Cisco Networking Academy | 16 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/cisco-ethical-hacker.jpg) |
+| **Arena Web Certified Professional (AWCP)** — Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/awcp.jpg) |
+| **Corporate Internship Completion** (60 hours) | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/corporate-internship.jpg) |
+| **CWL Certified AI Security Fundamentals** | CyberWarfare Labs | 12 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/cwl-ai-security.jpg) |
+| **Certified Cyber Security Analyst (C3SA)** | CyberWarfare Labs | 11 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/c3sa.jpg) |
+| **Basics of Python** | UniAthena × Cambridge International Qualifications (UK) | 3 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/basics-of-python.jpg) |
+| **Hacker Holidays: Byte Lotus Summer Breach Engagement** | TryHackMe | 11 Aug 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/thm-hacker-holidays.jpg) |
+| **Cyber Apocalypse CTF 2026: The Salt Crown** — Certified CTF Player | Hack The Box | 24–29 Jul 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/htb-cyber-apocalypse-2026.jpg) |
+| **Global Cyber Skills Benchmark 2026: Project Nightfall** — Certified CTF Player | Hack The Box | 15–20 May 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/htb-benchmark-2026.jpg) |
+| **Wiz Bug Bounty Masterclass** — Advanced vulnerability hunting & bug bounty methodology | Wiz | 13 Feb 2026 *(valid until 13 Feb 2028)* | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/wiz-bug-bounty-masterclass.jpg) |
+| **Cyber Security & Ethical Hacking Boot Camp** (15-day program) | Bangladesh Cyber Institute (BCI) | 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/bci-bootcamp.jpg) |
+| **Webinar on CEH** — Certified Ethical Hacker | Cyberlog Limited | — | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](./certificates/ceh-webinar.jpg) |
 
 ---
 
