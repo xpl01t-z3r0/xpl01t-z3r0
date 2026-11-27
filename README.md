@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=44&pause=5000&color=00FF00&center=true&vCenter=true&width=700&height=85&lines=xpl01t_z3r0" alt="Handle" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=900&color=FF0000&center=true&vCenter=true&width=750&height=38&lines=%5B*%5D+Initializing+red_team_protocol...;%5B%2B%5D+35th+Global+%E2%80%94+HTB+Cyber+Apocalypse+%2726;%5B%2B%5D+148th+Global+%E2%80%94+HTB+Benchmark+%2726;%5B%2B%5D+7th+%E2%80%94+SecFest+CTF+%2726+%7C+Team+SceCrown;%5B%2B%5D+Top+2%25+TryHackMe+%7C+Level+12+GURU;%5B%2B%5D+AWCP+%7C+C3SA+%7C+CWL+AI+Security;%5B!%5D+Authorized+testing+only." alt="Terminal Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=900&color=FF0000&center=true&vCenter=true&width=750&height=38&lines=%5B*%5D+Initializing+red_team_protocol...;%5B%2B%5D+35th+Global+%E2%80%94+HTB+Cyber+Apocalypse+%2726;%5B%2B%5D+148th+Global+%E2%80%94+HTB+Benchmark+%2726;%5B%2B%5D+7th+%E2%80%94+SecFest+CTF+%2726+%7C+Team+SceCrown;%5B%2B%5D+Top+2%25+TryHackMe+%7C+Level+12+GURU;%5B%2B%5D+AWCP+%7C+C3SA+%7C+CRTA+%7C+CWL+AI+Security;%5B!%5D+Authorized+testing+only." alt="Terminal Typing" />
 <br/><br/>
 
 <p>
@@ -51,7 +51,7 @@
 [+] Rank      : 35th Global — HTB Cyber Apocalypse '26
 [+] CTF       : 7th — SecFest CTF '26 | 546th — Cold Room CTF '26
 [+] Platform  : Top 2% TryHackMe | HTB Skilled Lv.52
-[+] Certs     : AWCP | C3SA | CWL AI Security
+[+] Certs     : AWCP |  CRTA | C3SA | CWL AI Security
 [+] Objective : Discover weaknesses. Simulate attacks. Build resilience.
 [!] Notice    : All testing performed with explicit authorization only.
 
@@ -96,6 +96,7 @@
 
 | Certification / Program | Issuer | Date | Certificate |
 | :--- | :--- | :--- | :---: |
+| **Certified Red Team Analyst (CRTA)** | CyberWarfare Labs | 25 Nov 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/xpl01t-z3r0/xpl01t-z3r0/blob/main/certificates/crta.png) |
 | **Arena Web Certified Professional (AWCP)** — Cyber Security & Ethical Hacking | Arena Web Security | 2 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/xpl01t-z3r0/xpl01t-z3r0/blob/main/certificates/awcp.png) |
 | **Cisco Networking Academy: Ethical Hacker** | Cisco Networking Academy | 16 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/xpl01t-z3r0/xpl01t-z3r0/blob/main/certificates/cisco-ethical-hacker.png) |
 | **Advance Python with Django** | Arena Web Security | 27 Oct 2026 | [![View](https://img.shields.io/badge/View-FF6600?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/xpl01t-z3r0/xpl01t-z3r0/blob/main/certificates/advance-python-django.png) |
